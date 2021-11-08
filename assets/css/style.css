@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+
+header {
+    background-color: #e3342f;;
+}
+
+.btn-user{
+    background-color: #e3342f;
+    color: #fff;
+}
+
+.header-menu > li {
+    margin: 0 40px;
+}
